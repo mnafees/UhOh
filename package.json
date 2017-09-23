@@ -1,0 +1,19 @@
+{
+  "name": "uhoh",
+  "version": "1.0.0",
+  "description": "A Proof of Concept about how Privacy is a hoax in today's world using WhatsApp Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnafees/UhOh.git"
+  },
+  "author": "Mohammed Nafees",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mnafees/UhOh/issues"
+  },
+  "homepage": "https://github.com/mnafees/UhOh#readme"
+}
