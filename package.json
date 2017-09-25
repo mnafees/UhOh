@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mnafees/UhOh/issues"
   },
-  "homepage": "https://github.com/mnafees/UhOh#readme"
+  "homepage": "https://github.com/mnafees/UhOh#readme",
+  "dependencies": {
+    "puppeteer": "^0.11.0"
+  }
 }
